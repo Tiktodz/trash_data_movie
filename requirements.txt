@@ -2,3 +2,5 @@ themoviedb
 imdb
 search-console
 wordpress
+instructure
+medium
