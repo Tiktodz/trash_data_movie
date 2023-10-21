@@ -5,3 +5,4 @@ wordpress
 instructure
 medium
 Quora
+baskadia
