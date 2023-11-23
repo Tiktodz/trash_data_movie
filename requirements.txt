@@ -8,3 +8,4 @@ Quora
 baskadia
 replit
 gamma
+mamul
