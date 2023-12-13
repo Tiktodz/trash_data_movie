@@ -9,3 +9,4 @@ baskadia
 replit
 gamma
 mamul
+infogram
