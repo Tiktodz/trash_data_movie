@@ -10,3 +10,4 @@ replit
 gamma
 mamul
 infogram
+pledge
