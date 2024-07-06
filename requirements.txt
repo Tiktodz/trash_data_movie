@@ -13,3 +13,4 @@ infogram
 pledge
 ticketbud
 billetto
+scoop
